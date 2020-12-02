@@ -1,5 +1,5 @@
 # CSCI-UA-102-Data-Structures
-Assignments/projects completed in my NYU Data Structures course
+Assignments/projects completed through NYU's Data Structures course
 
 ### Authors
 
